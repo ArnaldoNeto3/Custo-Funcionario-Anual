@@ -1,0 +1,133 @@
+Nome,Departamento,Sexo,Salario,HH - Trabalhado,Mes
+Fernando Alencar,Marketing,Masculino,3450,300,Janeiro
+Eduarda Neves,Departamento Pessoal,Feminino,5000,250,Janeiro
+Yago Souza,TI,Masculino,3680,180,Janeiro
+José Martinez,BI,Masculino,2500,220,Janeiro
+Lyanco Costa,BI,Masculino,3800,220,Janeiro
+Débora Nunes,Recursos Humanos,Feminino,7000,340,Janeiro
+Maria Vasconcelos,Recursos Humanos,Feminino,1500,380,Janeiro
+Pedro Santos,Logística,Masculino,3000,260,Janeiro
+Mayara Ferreira,TI,Feminino,6000,255,Janeiro
+Tiago Nascimento,Segurança,Masculino,10000,400,Janeiro
+Maria Silva,Supervisora,Feminino,18000,390,Janeiro
+Fernando Alencar,Marketing,Masculino,3450,175,Fevereiro
+Eduarda Neves,Departamento Pessoal,Feminino,5000,234,Fevereiro
+Yago Souza,TI,Masculino,3680,310,Fevereiro
+José Martinez,BI,Masculino,2500,220,Fevereiro
+Lyanco Costa,BI,Masculino,3800,150,Fevereiro
+Débora Nunes,Recursos Humanos,Feminino,7000,199,Fevereiro
+Maria Vasconcelos,Recursos Humanos,Feminino,1500,260,Fevereiro
+Pedro Santos,Logística,Masculino,3000,255,Fevereiro
+Mayara Ferreira,TI,Feminino,6000,400,Fevereiro
+Tiago Nascimento,Segurança,Masculino,10000,390,Fevereiro
+Maria Silva,Supervisora,Feminino,18000,175,Fevereiro
+Fernando Alencar,Marketing,Masculino,3450,234,Março
+Eduarda Neves,Departamento Pessoal,Feminino,5000,310,Março
+Yago Souza,TI,Masculino,3680,150,Março
+José Martinez,BI,Masculino,2500,115,Março
+Lyanco Costa,BI,Masculino,3800,245,Março
+Débora Nunes,Recursos Humanos,Feminino,7000,175,Março
+Maria Vasconcelos,Recursos Humanos,Feminino,1500,234,Março
+Pedro Santos,Logística,Masculino,3000,310,Março
+Mayara Ferreira,TI,Feminino,6000,220,Março
+Tiago Nascimento,Segurança,Masculino,10000,150,Março
+Maria Silva,Supervisora,Feminino,18000,199,Março
+Fernando Alencar,Marketing,Masculino,3450,300,Abril
+Eduarda Neves,Departamento Pessoal,Feminino,5000,250,Abril
+Yago Souza,TI,Masculino,3680,180,Abril
+José Martinez,BI,Masculino,2500,220,Abril
+Lyanco Costa,BI,Masculino,3800,220,Abril
+Débora Nunes,Recursos Humanos,Feminino,7000,340,Abril
+Maria Vasconcelos,Recursos Humanos,Feminino,1500,380,Abril
+Pedro Santos,Logística,Masculino,3000,260,Abril
+Mayara Ferreira,TI,Feminino,6000,213,Abril
+Tiago Nascimento,Segurança,Masculino,10000,310,Abril
+Maria Silva,Supervisora,Feminino,18000,333,Abril
+Fernando Alencar,Marketing,Masculino,3450,380,Maio
+Eduarda Neves,Departamento Pessoal,Feminino,5000,290,Maio
+Yago Souza,TI,Masculino,3680,175,Maio
+José Martinez,BI,Masculino,2500,213,Maio
+Lyanco Costa,BI,Masculino,3800,310,Maio
+Débora Nunes,Recursos Humanos,Feminino,7000,333,Maio
+Maria Vasconcelos,Recursos Humanos,Feminino,1500,380,Maio
+Pedro Santos,Logística,Masculino,3000,220,Maio
+Mayara Ferreira,TI,Feminino,6000,300,Maio
+Tiago Nascimento,Segurança,Masculino,10000,250,Maio
+Maria Silva,Supervisora,Feminino,18000,180,Maio
+Fernando Alencar,Marketing,Masculino,3450,220,Junho
+Eduarda Neves,Departamento Pessoal,Feminino,5000,220,Junho
+Yago Souza,TI,Masculino,3680,340,Junho
+José Martinez,BI,Masculino,2500,380,Junho
+Lyanco Costa,BI,Masculino,3800,246,Junho
+Débora Nunes,Recursos Humanos,Feminino,7000,237,Junho
+Maria Vasconcelos,Recursos Humanos,Feminino,1500,365,Junho
+Pedro Santos,Logística,Masculino,3000,280,Junho
+Mayara Ferreira,TI,Feminino,6000,180,Junho
+Tiago Nascimento,Segurança,Masculino,10000,288,Junho
+Maria Silva,Supervisora,Feminino,18000,260,Junho
+Fernando Alencar,Marketing,Masculino,3450,255,Julho
+Eduarda Neves,Departamento Pessoal,Feminino,5000,400,Julho
+Yago Souza,TI,Masculino,3680,390,Julho
+José Martinez,BI,Masculino,2500,175,Julho
+Lyanco Costa,BI,Masculino,3800,234,Julho
+Débora Nunes,Recursos Humanos,Feminino,7000,310,Julho
+Maria Vasconcelos,Recursos Humanos,Feminino,1500,255,Julho
+Pedro Santos,Logística,Masculino,3000,310,Julho
+Mayara Ferreira,TI,Feminino,6000,220,Julho
+Tiago Nascimento,Segurança,Masculino,10000,150,Julho
+Maria Silva,Supervisora,Feminino,18000,199,Julho
+Fernando Alencar,Marketing,Masculino,3450,260,Agosto
+Eduarda Neves,Departamento Pessoal,Feminino,5000,255,Agosto
+Yago Souza,TI,Masculino,3680,400,Agosto
+José Martinez,BI,Masculino,2500,220,Agosto
+Lyanco Costa,BI,Masculino,3800,340,Agosto
+Débora Nunes,Recursos Humanos,Feminino,7000,380,Agosto
+Maria Vasconcelos,Recursos Humanos,Feminino,1500,260,Agosto
+Pedro Santos,Logística,Masculino,3000,255,Agosto
+Mayara Ferreira,TI,Feminino,6000,400,Agosto
+Tiago Nascimento,Segurança,Masculino,10000,390,Agosto
+Maria Silva,Supervisora,Feminino,18000,175,Agosto
+Fernando Alencar,Marketing,Masculino,3450,398,Setembro
+Eduarda Neves,Departamento Pessoal,Feminino,5000,289,Setembro
+Yago Souza,TI,Masculino,3680,198,Setembro
+José Martinez,BI,Masculino,2500,199,Setembro
+Lyanco Costa,BI,Masculino,3800,260,Setembro
+Débora Nunes,Recursos Humanos,Feminino,7000,310,Setembro
+Maria Vasconcelos,Recursos Humanos,Feminino,1500,220,Setembro
+Pedro Santos,Logística,Masculino,3000,150,Setembro
+Mayara Ferreira,TI,Feminino,6000,199,Setembro
+Tiago Nascimento,Segurança,Masculino,10000,260,Setembro
+Maria Silva,Supervisora,Feminino,18000,255,Setembro
+Fernando Alencar,Marketing,Masculino,3450,400,Outubro
+Eduarda Neves,Departamento Pessoal,Feminino,5000,310,Outubro
+Yago Souza,TI,Masculino,3680,333,Outubro
+José Martinez,BI,Masculino,2500,380,Outubro
+Lyanco Costa,BI,Masculino,3800,220,Outubro
+Débora Nunes,Recursos Humanos,Feminino,7000,300,Outubro
+Maria Vasconcelos,Recursos Humanos,Feminino,1500,250,Outubro
+Pedro Santos,Logística,Masculino,3000,180,Outubro
+Mayara Ferreira,TI,Feminino,6000,220,Outubro
+Tiago Nascimento,Segurança,Masculino,10000,220,Outubro
+Maria Silva,Supervisora,Feminino,18000,340,Outubro
+Fernando Alencar,Marketing,Masculino,3450,380,Novembro
+Eduarda Neves,Departamento Pessoal,Feminino,5000,246,Novembro
+Yago Souza,TI,Masculino,3680,220,Novembro
+José Martinez,BI,Masculino,2500,340,Novembro
+Lyanco Costa,BI,Masculino,3800,380,Novembro
+Débora Nunes,Recursos Humanos,Feminino,7000,260,Novembro
+Maria Vasconcelos,Recursos Humanos,Feminino,1500,255,Novembro
+Pedro Santos,Logística,Masculino,3000,400,Novembro
+Mayara Ferreira,TI,Feminino,6000,255,Novembro
+Tiago Nascimento,Segurança,Masculino,10000,400,Novembro
+Maria Silva,Supervisora,Feminino,18000,310,Novembro
+Fernando Alencar,Marketing,Masculino,3450,333,Dezembro
+Eduarda Neves,Departamento Pessoal,Feminino,5000,380,Dezembro
+Yago Souza,TI,Masculino,3680,220,Dezembro
+José Martinez,BI,Masculino,2500,300,Dezembro
+Lyanco Costa,BI,Masculino,3800,246,Dezembro
+Débora Nunes,Recursos Humanos,Feminino,7000,237,Dezembro
+Maria Vasconcelos,Recursos Humanos,Feminino,1500,365,Dezembro
+Pedro Santos,Logística,Masculino,3000,280,Dezembro
+Mayara Ferreira,TI,Feminino,6000,180,Dezembro
+Tiago Nascimento,Segurança,Masculino,10000,288,Dezembro
+Maria Silva,Supervisora,Feminino,18000,260,Dezembro
